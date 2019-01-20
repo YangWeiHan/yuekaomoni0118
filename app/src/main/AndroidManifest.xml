@@ -60,7 +60,8 @@
         <activity android:name=".ui.actifity.LinkageEffectActivity" />
         <activity android:name=".ui.actifity.FlowActivity" />
         <activity android:name=".ui.actifity.MoreItemActivity" />
-        <activity android:name=".ui.actifity.ShopCarActivity"></activity>
+        <activity android:name=".ui.actifity.ShopCarActivity" />
+        <activity android:name=".BannerActivity"></activity>
     </application>
 
 </manifest>
